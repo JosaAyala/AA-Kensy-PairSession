@@ -1,0 +1,12 @@
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\bin\Debug\net5.0\PairSession.deps.json
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\bin\Debug\net5.0\PairSession.dll
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\bin\Debug\net5.0\ref\PairSession.dll
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\bin\Debug\net5.0\PairSession.pdb
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\PairSession.csproj.AssemblyReference.cache
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\PairSession.GeneratedMSBuildEditorConfig.editorconfig
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\PairSession.AssemblyInfoInputs.cache
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\PairSession.AssemblyInfo.cs
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\PairSession.csproj.CoreCompileInputs.cache
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\PairSession.dll
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\ref\PairSession.dll
+c:\MyProjects\PairSesion\PairSessionKensy\PairSession\obj\Debug\net5.0\PairSession.pdb
